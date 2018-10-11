@@ -1,0 +1,29 @@
+// SKILLS
+
+.ul-skills {
+  text-align: center;
+  padding-left: 0;
+}
+
+.content-header {
+  h2 {
+    color: $primary;
+  }
+}
+
+.skill-hr-content hr {
+  width: 50%;
+  background-color: $primary;
+}
+
+.li-skills {
+  display: inline-block;
+  margin: 7px;
+  padding: 5px 10px;
+  color: white;
+  background: $primary;
+  list-style: none;
+  cursor: default;
+  font-size: 1.2em;
+  border-radius: 10px;
+}
