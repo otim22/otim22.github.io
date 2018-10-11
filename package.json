@@ -1,8 +1,8 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
+    "title": "Resume",
+    "name": "Otim Fredrick",
     "version": "4.0.0",
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "One page HTML template built on a bootstrap.",
     "keywords": [
         "css",
         "sass",
@@ -11,19 +11,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/agency",
+    "homepage": "https://github.com/otim22/otim22.github.io",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/otim22/otim22.github.io/issues",
+        "email": "fredrickot@gmail.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Otim Fredrick (https://github.com/otim22/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+        "url": "https://github.com/otim22/otim22.github.io"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
