@@ -1,6 +1,5 @@
 {
     "title": "Resume",
-    "name": "Otim Fredrick",
     "version": "4.0.0",
     "description": "One page HTML template built on a bootstrap.",
     "keywords": [
@@ -12,12 +11,6 @@
         "template"
     ],
     "homepage": "https://github.com/otim22.github.io",
-    "bugs": {
-        "url": "https://github.com/otim22.github.io/issues",
-        "email": "fredrickot@gmail.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
     "contributors": [
         "Otim Fredrick (https://github.com/otim22/)"
     ],
